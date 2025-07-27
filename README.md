@@ -18,4 +18,6 @@ Our Solution
 4.Integration with MySQL to store freelancer data
 <br>
 5.Interactive Power BI Dashboard to visualize freelancer distribution, earnings trends, skill utilization, etc.
-
+<br>
+# To Know more... Click the Below Link
+https://www.canva.com/design/DAGdAKOFqNw/kmvJP55HRNLY-vgGbPEhow/view?utm_content=DAGdAKOFqNw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc4ac946be3
